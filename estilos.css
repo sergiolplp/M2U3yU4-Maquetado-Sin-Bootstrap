@@ -58,6 +58,7 @@ justify-content: center;
 background-image: url(./IMG/img-sobremi/CristianGarmendia.jpg);
 background-size: cover;
 margin: auto;
+border-radius: 5px;
 }
 
 .texto{
